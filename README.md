@@ -1,3 +1,3 @@
 # Linux-Bash-Programs
 
-This Repository Has My Work On bash language that i did in ubuntu and kali linux.
+This repository has my work on bash language that i did in Ubuntu and Kali linux.
